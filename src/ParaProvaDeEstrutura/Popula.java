@@ -1,4 +1,4 @@
-package AlgoritmoBubbleSort;
+package ParaProvaDeEstrutura;
 
 import java.util.Random;
 
